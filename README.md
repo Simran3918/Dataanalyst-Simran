@@ -52,7 +52,7 @@ Based on the descriptive analysis, the following recommendations were made:
 - Policy Adjustments: Revise fee schedules to be fair and encourage non-renewal of contracts to extend the beneficial timeframe of Real Estate Business License activity.
 
 ## Tools and Technologies:
- 
+(https://github.com/Simran3918/Dataanalyst-Simran/blob/main/Draw.io.PNG)
 AWS Services Used:
 1. Amazon S3: To store the raw, processed, and cleaned datasets.
 2. AWS Glue DataBrew: To automate the cleaning and preparation of the dataset.
